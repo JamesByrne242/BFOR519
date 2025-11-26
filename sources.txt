@@ -1,0 +1,6 @@
+Sources:
+
+Enumerate Network Drives: https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/get-psdrive?view=powershell-7.5
+Creating registry key: https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/new-itemproperty?view=powershell-7.5
+Add text into notepad: https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.management/add-content?view=powershell-7.5
+Force admin on script: https://stackoverflow.com/questions/47012970/code-to-check-for-administrator-privileges-not-working-on-some-servers
